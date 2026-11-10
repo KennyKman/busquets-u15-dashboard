@@ -1,4 +1,4 @@
-# My #6 Development – Busquets Learning Lab
+# GU12 OSC IModel Training Tools
 
 A single-page player-development tracker for U15 defensive midfielders.
 
